@@ -1,6 +1,8 @@
 # The-Dilema
 A woman having to chose what to do with her love life. the doctor who was her high school sweet heart or the wrestler who she just started to have feelings for.
 
+==start==
+
 //Suzie's table
 What should i have to drink?
 *a soothing glass of wine
@@ -30,3 +32,7 @@ I have brought both of you here to decide on my boyfriend.
 -Better make the right one or you ight regret it.
 * {boyfriend == "wrestler"} Yes. You will be on the road and see new sights.
 * {boyfriend == "doctor"} No. You will be stuck in the same place forever.
+* {boyfriend == "wrestler"} No. You will be stuck on the road with the same people.
+* {boyfriend == "doctor"} Yes. You will be able to do what you want.
+I am glad I chose what I did and I don't regret it.
+-->End
